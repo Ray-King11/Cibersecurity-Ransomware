@@ -58,4 +58,4 @@ O Ransomware é uma ameaça crescente que pode causar enormes prejuízos finance
 
 📢 Se quiser contribuir ou aprender mais, sinta-se à vontade para explorar e sugerir melhorias neste repositório!
 
-##📎 Licença: MIT[https://opensource.org/license/mit]
+## 📎 [**Licença: MIT**](https://opensource.org/license/mit)
